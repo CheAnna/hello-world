@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi there!
+I love reading and being philosophical about life.
+And my name is Anna.
